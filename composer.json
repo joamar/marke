@@ -1,0 +1,6 @@
+{
+    "require": {
+        "doctrine/doctrine-bundle": "dev-master",
+        "doctrine/orm": "v2.5.0"
+    }
+}
